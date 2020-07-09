@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: calc.c
+| File Name: 4FuncCalc.c
 | Purpose: To calculate the result based on the operation and numbers chosen by the user
 | Documentation:
 |     Ask the user to choose an arithmetical operation type from the list
@@ -21,21 +21,21 @@ int main(void)
    float num1, num2;
 
    printf("4-operation calculator.\nEnter an operation type: A for add, S for subtract, M for multiply and D for divide.\n");
-   scanf(“%c”, &calcOperation);            /* the type of the calculator operations a user chose */
+   scanf(â€œ%câ€, &calcOperation);            /* the type of the calculator operations a user chose */
    printf("Enter two numbers.\n");
-   scanf(“%f” %f, &num1, &num2);
+   scanf(â€œ%fâ€ %f, &num1, &num2);
    switch (calcOperation)
 {
-   case ‘A’:
+   case â€˜Aâ€™:
       res = num1 + num2;
       break;
-   case ‘S’:
+   case â€˜Sâ€™:
       res = num1 - num2;
       break;
-   case ‘M’:
+   case â€˜Mâ€™:
       res = num1 * num2;
       break;
-   case ‘D’:
+   case â€˜Dâ€™:
       res = num1 / num2;
       break;
    default:
