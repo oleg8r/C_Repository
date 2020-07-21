@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: GuessNumber.c
+| File Name: GuessNumberGame.c
 | Purpose: A guessing number game with a computer
 | Documentation:
 |     A computer chooses a random number between 1 to 100, and a user tries to guess it with 10 attempts.
@@ -62,7 +62,7 @@ int main(void)
   }  
   
   if (win == 0) //relation
-    printf("\n\nSORRY! You couldn’t find it with 10 guesses!\nMy number was %d. Maybe next time!", r);
+    printf("\n\nSORRY! You couldnâ€™t find it with 10 guesses!\nMy number was %d. Maybe next time!", r);
 
   printf("\n\nDo you want to play again? (Y/N) > ");
   scanf("%s", &answer);
