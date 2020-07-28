@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: 4FuncCalc.c
+| File Name: FourFuncCalc.c
 | Purpose: To calculate the result based on the operation and numbers chosen by the user
 | Documentation:
 |     Ask the user to choose an arithmetical operation type from the list
