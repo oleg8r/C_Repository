@@ -2,10 +2,12 @@
 |
 | File Name: GcdCalc.c
 | Purpose:
-|	To get two positive integers and calculate their greatest  |	common divisor or GCD. GCD is |	the greatest number that   |	the two positive numbers are both divisible by.
+|	To get two positive integers and calculate their greatest  |	common divisor or GCD. GCD is the greatest number that   
+|	the two positive numbers are both divisible by.
 |
 | Documentation:
-|	This program picks  a candidate for GCD to be the smaller   |	of the two numbers. It checks |	if that candidate satisfies |	the GCD condition. If not, it reduces the candidate by one |	and tries again. The first number that satisfies the       |	conditions will be the GCD.
+|	This program picks a candidate for GCD to be the smaller   |	of the two numbers. It checks if that candidate satisfies 
+|	the GCD condition. If not, it reduces the candidate by one |	and tries again. The first number that satisfies the       |	conditions will be the GCD.
 |	
 |
 | Revision History:
