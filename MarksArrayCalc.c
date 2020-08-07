@@ -9,7 +9,7 @@
 |	size and marks.
 |
 | Documentation:
-|     Ask the user to enter a class size and marks. Calculate
+|	Ask the user to enter a class size and marks. Calculate
 |	and print out a class average, best and worst marks, a
 |	number of failed students, a number of students with a
 |	grade A and higher (80 or above), number of students who
@@ -21,6 +21,7 @@
 | 2020-07-12         Oleg Savelev          created
 |
 |===========================================================*/
+
 
 #include <stdio.h>
 #include <stdlib.h>
