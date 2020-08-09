@@ -1,13 +1,15 @@
 /*===========================================================
 |
 | File Name: GuessNumberGame.c
-| Purpose: A guessing number game with a computer
+| Purpose: A guessing number game with a computer.
+|
 | Documentation:
-|     A computer chooses a random number between 1 to 100, and a user tries to guess it with 10 attempts.
+|	A computer chooses a random number between 1 and 100,
+|	and a user tries to guess it with 10 attempts.
 |
 | Revision History:
 | Date               Name                  Revision
-| --------------     -----------------     -------------------------------
+| --------------     -----------------     ----------------
 | 2020-07-16         Oleg Savelev          created
 |
 |===========================================================*/
