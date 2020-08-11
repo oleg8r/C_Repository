@@ -47,12 +47,12 @@ for(int index = 0; index < strlen(myStr); index++)
 	{
     if(myStr[index] >= 'a' && myStr[index] <= 'z')
       {
-        myStr[index] = myStr[index] - 32;
+        myStr[index] = myStr[index] - 'a' + 'A';
       }
        
 	if(myStr[index] >= 'A' && myStr[index] <= 'Z')
       {
-        myStr[index] = myStr[index] + 32;
+        myStr[index] = myStr[index] - 'A' + 'a';
       }
    }
 }
