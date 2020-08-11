@@ -1,15 +1,16 @@
 /*===========================================================
 |
 | File Name: DivisorCalc.c
-| Purpose: To print out all the divisors of a user entered number
+| Purpose: To print out all the divisors of a user entered
+|		number.
 | Documentation:
-|     Ask the user to enter a positive number or 0 to end. Calculate and print
-|     out all the divisors of the entered number, plus the number of printed
-|     divisors and their sum.
+|	Ask the user to enter a positive number or 0 to end.
+|	Calculate and print out all the divisors of the entered
+|	number, plus the number of printed divisors and their sum.
 |
 | Revision History:
 | Date               Name                  Revision
-| --------------     -----------------     -------------------------------
+| --------------     -----------------     ------------------
 | 2020-07-07         Oleg Savelev          created
 |
 |===========================================================*/
@@ -20,13 +21,12 @@
 
 int main(void)
 {
-  int number = 0;     //User’s number
+  int number = 0;     //Userâ€™s number
   int divisor = 1;    //A divisor
   int counter = 0;    //A number of divisors
   int sum = 0;      //A sum of divisors
 
   printf("This program identifies and displays divisors of a given number.\n");
-  printf("Developed as an IPC144 project. \n");
   printf("\nEnter a positive number. Enter 0 to end: ");
   scanf("%d", &number);
 
