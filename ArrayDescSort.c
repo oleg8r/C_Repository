@@ -2,7 +2,7 @@
 
 /*===========================================================
 |
-| File Name: ArrayDescSort.c
+| File Name: ArrayDescenSort.c
 | Purpose:
 |	To sort an array in a descending order and to show the
 |	number of elements that did not change their positions
@@ -28,7 +28,7 @@
 #define ARR_SIZE 5
 
 
-void sortDESC(int * myArray, int arSize);
+void sortDESCEN(int * myArray, int arSize);
 void swapVar(int * num1, int * num2);
 void printArray(int * myArray, int arSize);
 
@@ -41,14 +41,14 @@ int main(void)
 	printf("\nMy array before calling the function: ");
 	printArray(myArray, arSize);
 
-	sortDESC(myArray, arSize);
+	sortDESCEN(myArray, arSize);
 
 	printf("\nMy array after calling the function: ");
 	printArray(myArray, arSize);
  }
 
 
-void sortDESC(int * myArray, int arSize)
+void sortDESCEN(int * myArray, int arSize)
 {
     int index;
     int indexLast;
