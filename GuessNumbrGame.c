@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: GuessNumberGame.c
+| File Name: GuessNumbrGame.c
 | Purpose: A guessing number game with a computer.
 |
 | Documentation:
