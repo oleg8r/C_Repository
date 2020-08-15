@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: AnagramChecker.c
+| File Name: AnagramCheck.c
 | Purpose:
 |	To check if two words are anagrams.
 |
