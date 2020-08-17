@@ -62,6 +62,7 @@ void reverseArray(int * arr)
   arr[2] = arr[3];
   arr[3] = tempVar;
 }
+
 /*
 void reverseArray(int *arr) { // Other option for the reverseArray() function
 
