@@ -5,7 +5,7 @@
 |	To practice pointers and array.
 |
 | Documentation:
-|	This program reverses an array.
+|	This program uses a function to reverse an array.
 |	
 |
 | Revision History:
