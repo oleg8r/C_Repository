@@ -3,7 +3,6 @@
 | File Name: ReverseArray.c
 | Purpose:
 |	To practice passing structure to functions.
-|
 | Documentation:
 |	This program displays today's calendar date.
 |	
