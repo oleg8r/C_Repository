@@ -46,7 +46,7 @@ return 0;
 void printArray(int * array)
 {
   int index;
-  for (index = 0; index < ARR_SIZE; index =  index + 1)
+  for (index = 0; index < ARR_SIZE; index++)
       printf("index#%d = %d\n", index, array[index]);
 }
 
@@ -57,7 +57,7 @@ void findnReport(int * array, int size, int num)
 	int index;
 	for(index = 0; index < size; index++)
 	{
-		if(num == *array)
+		if(num == * array)
 		{
 			printf("Number 5 found in array index #%d\n", index);
 			count++;
