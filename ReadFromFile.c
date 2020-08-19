@@ -33,7 +33,7 @@ int main(void) {
     for (i = 0; i<N; i++) {
         fscanf(ifile, "%d", &num);
         printf("I read %d from the file. \n", num);
-    	   gradeAvg();
+    	gradeAvg();
     }
     
     fclose(ifile);
@@ -42,13 +42,13 @@ int main(void) {
 }
 
 void calcGradeAvg(int * arr) {
-int i;
-int gradeSum = 0;
-float gradeAvg;
+    int i;
+    int gradeSum = 0;
+    float gradeAvg;
 
-for (int i=0; i<num; i++)
-    gradeSum = gradeSum + arr[i];
-    gradeAvg = gradeSum / num;
-    
-return gradeAvg;
+    for (int i=0; i<num; i++) {
+        gradeSum = gradeSum + arr[i];
+        gradeAvg = gradeSum / num;
+    }
+    return gradeAvg;
 }
