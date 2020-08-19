@@ -1,9 +1,7 @@
 /*===========================================================
 |
 | File Name: ReadFromFile.c
-| Purpose:
-|	To practice reading numbers from a file.
-|
+| Purpose: To practice reading numbers from a file.
 | Documentation:
 |	This program reads numbers from a file and displays an
 |	average grade.
@@ -13,13 +11,14 @@
 | Date               Name                  Revision
 | --------------     -----------------     -------------------
 | 2020-08-10         Oleg Savelev          created
+| 2020-08-19         Oleg Savelev          updated
 |
 |===========================================================*/
 
 
 #include <stdio.h>
 
-gradeAvg(int *);
+calcGradeAvg(int *);
 
 int main(void) {
 
@@ -33,7 +32,8 @@ int main(void) {
     for (i = 0; i<N; i++) {
         fscanf(ifile, "%d", &num);
         printf("I read %d from the file. \n", num);
-    	gradeAvg();
+    	gradeAvg = calcGradeAvg();
+        printf("Average grade is: %d\n", gradeAvg);
     }
     
     fclose(ifile);
