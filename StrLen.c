@@ -1,12 +1,10 @@
 /*===========================================================
 |
 | File Name: StrLen.c
-| Purpose:
-|	To practice string lengths.
-|
+| Purpose: To practice string lengths.
 | Documentation:
-|	This program shows if the name has even number of letters
-|	or odd number of letters.
+|    This program shows if the name has even number of letters
+|    or odd number of letters.
 |	
 |
 | Revision History:
@@ -27,8 +25,8 @@ int main(void) {
   printf("Please enter the name: ");
   scanf("%s", name);
     if (strlen(name)%2==0)
-      printf("Even number of letters\n");
-    else (printf("Odd number of letters\n"));
+      printf("The name has even number of letters\n");
+    else (printf("The name has odd number of letters\n"));
         
     return 0;
 }
