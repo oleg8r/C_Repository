@@ -1,9 +1,7 @@
 /*===========================================================
 |
 | File Name: PtrsAgeElixirUpd.c
-| Purpose:
-|	To practice pointers on the age elixir advanced example.
-|
+| Purpose: To practice pointers on the age elixir advanced example.
 | Documentation:
 |	This program asks a user to enter his age and then lowers
 |	his age by 10 years if he's 21 and older, and twice
@@ -26,7 +24,7 @@ void ageModifyer(int *); //Write your function prototype here
 
 int main(void){
 	int age;
-	int *ageAddr = &age;
+	int * ageAddr = &age;
 
 	printf("Please specify your age: ");
 	scanf("%d", ageAddr);
