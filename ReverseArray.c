@@ -61,7 +61,7 @@ void reverseArray(int * arr)
 }
 
 /*
-void reverseArray(int *arr) { // Other option for the reverseArray() function
+void reverseArray(int * arr) { // Other option for the reverseArray() function
 
   int tempVar;
   int i; 
