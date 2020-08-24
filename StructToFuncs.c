@@ -1,15 +1,14 @@
 /*===========================================================
 |
 | File Name: ReverseArray.c
-| Purpose:
-|	To practice passing structure to functions.
+| Purpose: To practice passing structure to functions.
 | Documentation:
 |	This program displays today's calendar date.
 |	
 |
 | Revision History:
 | Date               Name                  Revision
-| --------------     -----------------     -------------------
+| --------------     -----------------     ------------------
 | 2020-08-09         Oleg Savelev          created
 |
 |===========================================================*/
