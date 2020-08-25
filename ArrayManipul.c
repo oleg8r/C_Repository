@@ -1,8 +1,7 @@
 /*===========================================================
 |
 | File Name: ArrayManipul.c
-| Purpose:
-|	To do array manipulation.
+| Purpose: To do array manipulation.
 |
 | Documentation:
 |	This program is for array manipulation. The program is
