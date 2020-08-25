@@ -3,8 +3,7 @@
 /*===========================================================
 |
 | File Name: ArrayAscenSort.c
-| Purpose:
-|	To sort an array in a ascending order and to show the
+| Purpose: To sort an array in a ascending order and to show the
 |	number of elements that did not change their positions
 |	after the sorting.
 |
