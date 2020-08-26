@@ -7,7 +7,6 @@
 |	other and checks if these words are anagrams (permutations
 |	of the same letters).
 |	
-|
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     -------------------
