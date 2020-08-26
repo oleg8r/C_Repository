@@ -10,7 +10,7 @@
 |
 | Revision History:
 | Date               Name                  Revision
-| --------------     -----------------     ---------------------
+| --------------     -----------------     -------------------
 | 2020-07-20         Oleg Savelev          created
 |
 |===========================================================*/
@@ -70,7 +70,7 @@ void strCopy(char *to, char *from) // To make a copy of a string for manupulatio
     while (from[index])
     {
         to[index] = from[index];
-        index = index + 1;
+        index++;
     }
     to[index] = 0;
 }
@@ -82,7 +82,7 @@ void strLower(char* str) // To lower the text string font case
     {
         if (str[index] >= 'A' && str[index] <= 'Z')
             str[index] = str[index] - 'A' + 'a';
-        index = index + 1;
+        index++;
     }
 }
 
@@ -90,8 +90,8 @@ void strSort(char *str) // To sort the copies of strings in order
 {
 	int size = strlen(str);
  	int index1, index2;
-	for (index1 = 0 ; index1 < size - 1; index1 = index1 + 1 )
-        for (index2 = index1 + 1; index2 < size ; index2 = index2 + 1)
+	for (index1 = 0 ; index1 < size - 1; index1++ )
+        for (index2 = index1 + 1; index2 < size ; index2++)
             if (str[index1] > str[index2])
             {
                 char tempVar = str[index1];
