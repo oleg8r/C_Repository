@@ -2,7 +2,6 @@
 |
 | File Name: AnagramCheck.c
 | Purpose: To check if two words are anagrams.
-|
 | Documentation:
 |	This program asks users to enter two words, one after the
 |	other and checks if these words are anagrams (permutations
@@ -16,18 +15,15 @@
 |
 |===========================================================*/
 
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
 
-
 int strAnagram(char *strA,char *strB); // To check if two words are anagrams
 void strCopy(char *to, char *from); // To make a copy of a string for manupulation
 void strLower(char* str); // To lower the text string font case
 void strSort(char *str); // To sort the copies of strings in order
-
 
 int main()
 {
@@ -47,7 +43,6 @@ int main()
 
  return 0;
 }
-
 
 int strAnagram(char *strA, char *strB) // To call the number of functions for string manipulation and return the True or False value indicating if strings are anagrams or not
 {
@@ -69,7 +64,6 @@ int strAnagram(char *strA, char *strB) // To call the number of functions for st
         return 0;
 }
 
-
 void strCopy(char *to, char *from) // To make a copy of a string for manupulation
 {
     int index = 0;
@@ -81,7 +75,6 @@ void strCopy(char *to, char *from) // To make a copy of a string for manupulatio
     to[index] = 0;
 }
 
-
 void strLower(char* str) // To lower the text string font case
 {
     int index = 0;
@@ -92,7 +85,6 @@ void strLower(char* str) // To lower the text string font case
         index = index + 1;
     }
 }
-
 
 void strSort(char *str) // To sort the copies of strings in order
 {
