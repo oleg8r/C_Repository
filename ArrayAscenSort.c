@@ -54,7 +54,6 @@ void sortASCEN(int * myArray, int arSize)
         		swapVar(&myArray[index],&myArray[indexLast]);
 }
 
-
 void swapVar(int * num1, int * num2)
 {
   int tempVar;
@@ -62,7 +61,6 @@ void swapVar(int * num1, int * num2)
   *num1 = *num2 ;
   *num2 = tempVar;
 }
-
 
 void printArray(int * myArray, int arSize)
 {
