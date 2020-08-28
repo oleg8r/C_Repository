@@ -24,7 +24,6 @@
 #include <stdlib.h>
 #define ARR_SIZE 5
 
-
 void sortASCEN(int * myArray, int arSize);
 void swapVar(int * num1, int * num2);
 void printArray(int * myArray, int arSize);
