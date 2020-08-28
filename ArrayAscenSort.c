@@ -14,7 +14,7 @@
 |
 | Revision History:
 | Date               Name                  Revision
-| --------------     -----------------     ---------------------
+| --------------     -----------------     --------------------
 | 2020-07-29         Oleg Savelev          created
 |
 |===========================================================*/
@@ -27,7 +27,6 @@
 void sortASCEN(int * myArray, int arSize);
 void swapVar(int * num1, int * num2);
 void printArray(int * myArray, int arSize);
-
 
 int main(void) 
 {
