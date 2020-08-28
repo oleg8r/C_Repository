@@ -40,7 +40,6 @@ int main(void)
 	printArray(myArray, arSize);
  }
 
-
 void sortASCEN(int * myArray, int arSize)
 {
     int index;
