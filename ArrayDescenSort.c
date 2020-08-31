@@ -50,7 +50,6 @@ void sortDESCEN(int * myArray, int arSize)
         		swapVar(&myArray[index],&myArray[indexLast]);
 }
 
-
 void swapVar(int * num1, int * num2)
 {
   int tempVar;
