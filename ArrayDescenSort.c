@@ -25,7 +25,6 @@ void sortDESCEN(int * myArray, int arSize);
 void swapVar(int * num1, int * num2);
 void printArray(int * myArray, int arSize);
 
-
 int main(void) 
 {
 	int myArray[]={2, 3, 1, 0, -1};
