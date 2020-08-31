@@ -39,7 +39,6 @@ int main(void)
 	printArray(myArray, arSize);
  }
 
-
 void sortDESCEN(int * myArray, int arSize)
 {
     int index;
