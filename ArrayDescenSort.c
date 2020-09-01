@@ -58,7 +58,6 @@ void swapVar(int * num1, int * num2)
   *num2 = tempVar;
 }
 
-
 void printArray(int * myArray, int arSize)
 {
   int index;
