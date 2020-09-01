@@ -240,7 +240,7 @@ void searchArray(float *arr, int size, float searchedVal)
 void printRevArray(float *arr, int size)
 { 
 	int count;
-   	for (count = size - 1; count >= 0 ; count = count - 1) 
+   	for (count = size - 1; count >= 0 ; count--) 
         printf("%.1f ", *(arr + count));
         printf("\n\n");
 }
