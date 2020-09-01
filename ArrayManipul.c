@@ -218,7 +218,7 @@ void searchArray(float *arr, int size, float searchedVal)
 {
     int count;
     int foundVal = 0; 
-    for (count = 0; count < size; count = count + 1)
+    for (count = 0; count < size; count++)
     {
         if(*(arr + count) == searchedVal)
         {
