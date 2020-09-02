@@ -183,7 +183,6 @@ void swap(float *x, float *y)
     *y = tempVar; 
 } 
 
-
 void sortArrayAsc(float *arr, int size)  
 {  
     int var1, var2;  
