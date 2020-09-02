@@ -174,7 +174,6 @@ void printMenu()
     printf("Please enter your choice: ");
 }
 
-
 void swap(float *x, float *y)
 { 
     float tempVar = *x; 
