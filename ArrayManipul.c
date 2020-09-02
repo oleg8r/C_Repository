@@ -234,7 +234,6 @@ void searchArray(float *arr, int size, float searchedVal)
     }
 }
 
-
 void printRevArray(float *arr, int size)
 { 
 	int count;
