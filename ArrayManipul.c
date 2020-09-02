@@ -162,7 +162,6 @@ int main()
    return 0;
 }
 
-
 void printMenu()
 {
     printf("1- Enter the size of the array\n");
