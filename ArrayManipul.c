@@ -68,7 +68,7 @@ int main()
         	else
 		{
            	array = malloc(arrSize * sizeof(float));
-                for(int count = 0; count < arrSize ; count = count + 1)
+                for(int count = 0; count < arrSize ; count++)
            	{
            		float val;
            		printf("Enter array element %d: ",(count + 1));
