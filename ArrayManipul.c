@@ -204,7 +204,7 @@ void sortArrayDesc(float *arr, int size)
 void printArray(float *arr, int size) 
 { 
     	int count; 
-	for (count = 0; count < size; count = count + 1)
+	for (count = 0; count < size; count++)
         printf("%.1f ", *(arr + count));
         printf("\n\n");
 } 
