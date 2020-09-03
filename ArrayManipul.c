@@ -194,7 +194,7 @@ void sortArrayAsc(float *arr, int size)
 void sortArrayDesc(float *arr, int size)
 {  
     int var1, var2;
-    for (var1 = 0; var1 < size - 1; var1 = var1 + 1)
+    for (var1 = 0; var1 < size - 1; var1++)
         for (var2 = 0; var2 < size - var1 - 1; var2 = var2 + 1)  
             if (arr[var2] < arr[var2 + 1])  
                 swap(&arr[var2], &arr[var2 + 1]);  
