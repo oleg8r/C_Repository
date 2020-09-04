@@ -190,7 +190,6 @@ void sortArrayAsc(float *arr, int size)
                 swap(&arr[var2], &arr[var2 + 1]);  
 } 
 
-
 void sortArrayDesc(float *arr, int size)
 {  
     int var1, var2;
