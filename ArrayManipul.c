@@ -207,7 +207,6 @@ void printArray(float *arr, int size)
         printf("\n\n");
 } 
 
-
 void searchArray(float *arr, int size, float searchedVal)
 {
     int count;
