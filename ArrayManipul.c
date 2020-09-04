@@ -199,7 +199,6 @@ void sortArrayDesc(float *arr, int size)
                 swap(&arr[var2], &arr[var2 + 1]);  
 }
 
-
 void printArray(float *arr, int size) 
 { 
     	int count; 
