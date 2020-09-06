@@ -30,7 +30,7 @@ int main(void)
 
   if (number > 0)
   {
-    for (divisor = 1; divisor <= number; divisor = divisor + 1)
+    for (divisor = 1; divisor <= number; divisor++)
       if (number % divisor == 0)
       {
         printf("%d ", divisor);
