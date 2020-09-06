@@ -34,7 +34,7 @@ int main(void)
       if (number % divisor == 0)
       {
         printf("%d ", divisor);
-        counter = counter + 1;
+        counter++;
         sum = sum + divisor;
       }
   printf("\n%d divisors", counter);
