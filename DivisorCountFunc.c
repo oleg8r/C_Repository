@@ -2,7 +2,7 @@
 |
 | File Name: DivisorCountFunc.c
 | Purpose: To return the number of divisors of an integer number
-|		(by using a function).
+|	(by using a function).
 |
 | Documentation:
 |     The function called unsigned divisorCount (unsigned num)
