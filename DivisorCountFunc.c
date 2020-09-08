@@ -42,7 +42,7 @@ unsigned divisorCount(unsigned num)   // The function to return the number of di
  	{
   		for (divisor = 1; divisor <= num ; divisor++)
      			if (num % divisor == 0)
-     	  		counter = counter + 1;
+     	  		counter++;
   	}
   	else if (num == 0)
  		printf("Thanks and bye!\n");
