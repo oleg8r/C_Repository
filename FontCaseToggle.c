@@ -36,7 +36,6 @@ int main(void)
    return 0;
 }
 
-
 void printToggled(char * myStr)
 {
 for(int index = 0; index < strlen(myStr); index++)
