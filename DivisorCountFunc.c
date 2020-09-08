@@ -40,7 +40,7 @@ unsigned divisorCount(unsigned num)   // The function to return the number of di
  	scanf("%d", &num);
 	if (num > 0)
  	{
-  		for (divisor = 1; divisor <= num ; divisor = divisor + 1)
+  		for (divisor = 1; divisor <= num ; divisor++)
      			if (num % divisor == 0)
      	  		counter = counter + 1;
   	}
