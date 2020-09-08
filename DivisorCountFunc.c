@@ -51,4 +51,3 @@ unsigned divisorCount(unsigned num)   // The function to return the number of di
 
   return counter;
 }
-  
