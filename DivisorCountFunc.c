@@ -48,6 +48,5 @@ unsigned divisorCount(unsigned num)   // The function to return the number of di
  		printf("Thanks and bye!\n");
  	else
     		printf("Invalid input\n");
-
   return counter;
 }
