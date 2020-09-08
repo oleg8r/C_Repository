@@ -10,7 +10,6 @@
 |	parameter and prints every lowercase character as an
 |	uppercase one and vise versa.
 |	
-|
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     ---------------------
