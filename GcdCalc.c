@@ -11,7 +11,6 @@
 |	and tries again. The first number that satisfies the
 |	conditions will be the GCD.
 |	
-|
 | Revision History:
 | Date              Name                  Revision
 | --------------    -----------------     ---------------------
