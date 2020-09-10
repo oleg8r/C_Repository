@@ -71,5 +71,4 @@ int main(void)
   }
   
  } while (answer == 'Y' || answer == 'y');
-
 }
