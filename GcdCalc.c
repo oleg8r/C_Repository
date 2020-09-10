@@ -41,7 +41,6 @@ int gcd(int num1, int num2)
         gcdCandidate = num1;
     else
         gcdCandidate = num2;
-
     while (gcdCandidate >= 1)
     {
         if (num1 % gcdCandidate == 0 && num2 % gcdCandidate == 0)
