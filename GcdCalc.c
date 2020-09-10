@@ -34,7 +34,6 @@ int main()
  	printf("GCD(%d,%d) = %d because %d is the biggest number that %d %% %d == 0 and %d %% %d == 0\n", num1, num2, gcdVar, gcdVar, num1, gcdVar, num2, gcdVar);
 }
 
-
 int gcd(int num1, int num2)
 {
     int gcdCandidate ;
