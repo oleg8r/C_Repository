@@ -57,7 +57,6 @@ int main(void)
       win = 1; //assignment
       counter = 10;
     }
-  
   }  
   
   if (win == 0) //relation
