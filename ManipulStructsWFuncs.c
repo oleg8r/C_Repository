@@ -1,8 +1,7 @@
 /*===========================================================
 |
 | File Name: ManipulStructsWFuncs.c
-| Purpose:
-To practice manipulation structures with functions.
+| Purpose: To practice manipulation structures with functions.
 |
 | Documentation:
 |	This program manipulates structures with functions.
