@@ -11,7 +11,6 @@
 |
 |===========================================================*/
 
-
 /* To display tomorrow's calendar date */
 
 #include <stdio.h>
