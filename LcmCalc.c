@@ -20,7 +20,6 @@
 #include <stdlib.h>
 #include <string.h>
 
-
 int gcd(int num1, int num2);
 
 int main()
