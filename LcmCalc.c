@@ -34,7 +34,6 @@ int main()
  	printf("LCM(%d,%d) = %d\n", num1, num2, lcmVar);
 }
 
-
 int gcd(int num1, int num2)
 {
     int gcdCandidate ;
