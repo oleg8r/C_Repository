@@ -3,7 +3,6 @@
 | File Name: ManipulStructsWFuncs.c
 | Purpose: To practice manipulation structures with functions.
 | Documentation: This program manipulates structures with functions.
-|	
 |
 | Revision History:
 | Date               Name                  Revision
