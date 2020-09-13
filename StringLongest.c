@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: StrLenLongestWord.c
+| File Name: StringLongest.c
 | Purpose: To find the longest word in a text (the
 |		longest string length).
 |
