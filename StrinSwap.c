@@ -1,6 +1,6 @@
 /*===========================================================
 |
-| File Name: StrSwap.c
+| File Name: StrinSwap.c
 | Purpose: To practice swapping first and last name using strings.
 | Documentation:
 |	This program  first reads the total number of names (an
