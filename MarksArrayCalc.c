@@ -7,10 +7,10 @@
 |	got a mark above average, based on the user entered class
 |	size and marks.
 | Documentation: The program asks a user to enter a class size
-| and marks. Then it alculates and prints out a class average,
-| best and worst marks, a number of failed students, a number
-| of students with a grade A and higher (80 or above), and
-| number of students who got a mark above average.
+|   and marks. Then it alculates and prints out a class average,
+|   best and worst marks, a number of failed students, a number
+|   of students with a grade A and higher (80 or above), and
+|   number of students who got a mark above average.
 |
 | Revision History:
 | Date               Name                  Revision
