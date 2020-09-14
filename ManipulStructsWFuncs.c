@@ -81,7 +81,7 @@ struct date advanceDay(struct date today) {
     if (today.day < 31)
     {
       today.month = today.month;
-      today.day = today.day + 1;
+      today.day++;
     }
     else
     {
