@@ -99,7 +99,7 @@ struct date advanceDay(struct date today) {
     {
       today.day = 01;
       today.month = 01;
-      today.year = today.year + 1;
+      today.year++;
     }
   
   return today;
