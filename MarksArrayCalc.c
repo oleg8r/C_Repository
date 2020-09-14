@@ -6,13 +6,12 @@
 |	grade A and higher (80 or above), number of students who
 |	got a mark above average, based on the user entered class
 |	size and marks.
-|
 | Documentation:
-|	Ask the user to enter a class size and marks. Calculate
-|	and print out a class average, best and worst marks, a
-|	number of failed students, a number of students with a
-|	grade A and higher (80 or above), number of students who
-|	got a mark above average.
+|	The program asks a user to enter a class size and marks.
+| Then it alculates and prints out a class average, best and
+| worst marks, a number of failed students, a number of
+| students with a grade A and higher (80 or above), and
+| number of students who got a mark above average.
 |
 | Revision History:
 | Date               Name                  Revision
