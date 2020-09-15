@@ -66,7 +66,7 @@ int main(void)
   best = marks[0];
   worst = marks[0];
 
-  for (index = 0; index < classSize; index = index + 1)
+  for (index = 0; index < classSize; index++)
   {
     if (marks[index] > best )
         best = marks[index];
