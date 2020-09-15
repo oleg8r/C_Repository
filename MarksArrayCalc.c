@@ -93,7 +93,7 @@ int main(void)
   for (index = 0; index < classSize; index = index + 1)
   {
     if (marks[index] > avg)
-      numAboveAvg = numAboveAvg + 1;
+      numAboveAvg++;
   }
   printf("\nNumber of students who got a mark above average is: %d", numAboveAvg);     // print Number of students who got a mark above average
 
