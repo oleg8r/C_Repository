@@ -47,7 +47,7 @@ int main(void)
       scanf("%d", &classSize);
   }
 
-    for (index = 0; index < classSize; index = index + 1)
+    for (index = 0; index < classSize; index++)
     {
       printf("Please enter the percentage mark (0 to 100) for student #%d: ", index + 1);
       scanf("%f", &marks[index]);
