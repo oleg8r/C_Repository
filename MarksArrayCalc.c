@@ -83,7 +83,7 @@ int main(void)
   }
   printf("\nNumber of failed students with a grade of F (49 or below) is: %d", numFailed);  // print Number of Failed Students
 
-  for (index = 0; index < classSize; index = index + 1)
+  for (index = 0; index < classSize; index++)
   {
     if (marks[index] >= GradeA)
       numGradeA = numGradeA + 1;
