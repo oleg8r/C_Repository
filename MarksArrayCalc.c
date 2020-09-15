@@ -86,7 +86,7 @@ int main(void)
   for (index = 0; index < classSize; index++)
   {
     if (marks[index] >= GradeA)
-      numGradeA = numGradeA + 1;
+      numGradeA++;
   }
   printf("\nNumber of students with a grade of A and higher (80 or above) is: %d", numGradeA);     // print Number of Students with a grade of A and higher (80 or above)
 
