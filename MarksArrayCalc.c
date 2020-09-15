@@ -76,7 +76,7 @@ int main(void)
 
   printf("\nClass best mark is: %d \nClass worst mark is: %d ", best , worst);
 
-  for (index = 0; index < classSize; index = index + 1)
+  for (index = 0; index < classSize; index++)
   {
     if (marks[index] <= GradeFailed)
       numFailed = numFailed + 1;
