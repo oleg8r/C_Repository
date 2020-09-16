@@ -2,10 +2,8 @@
 |
 | File Name: MarksArrayCalc.c
 | Purpose: To print out a class average, best and worst marks, a
-|	number of failed students, a number of students with a
-|	grade A and higher, number of students who
-|	got a mark above average, based on the user entered class
-|	size and marks.
+|	number of failed students, a number of students with a grade A
+| and higher, a number of students who got a mark above average.
 | Documentation: The program asks a user to enter a class size
 |   and marks. Then it calculates and prints out a class average,
 |   best and worst marks, a number of failed students, a number
