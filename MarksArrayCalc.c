@@ -10,7 +10,7 @@
 |   and marks. Then it calculates and prints out a class average,
 |   best and worst marks, a number of failed students, a number
 |   of students with a grade A and higher (80 or above), and
-| number of students who got a mark above average.
+|   number of students who got a mark above average.
 |
 | Revision History:
 | Date               Name                  Revision
