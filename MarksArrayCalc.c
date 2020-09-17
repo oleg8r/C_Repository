@@ -88,7 +88,7 @@ int main(void)
   }
   printf("\nNumber of students with a grade of A and higher (80 or above) is: %d", numGradeA);     // print Number of Students with a grade of A and higher (80 or above)
 
-  for (index = 0; index < classSize; index = index + 1)
+  for (index = 0; index < classSize; index++)
   {
     if (marks[index] > avg)
       numAboveAvg++;
