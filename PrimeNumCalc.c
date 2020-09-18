@@ -12,7 +12,6 @@
 |	returns 1 if the number is prime and returns 0 if the
 |	number is not prime.
 |	
-
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     ---------------------
