@@ -38,7 +38,7 @@ int main(void)
 		int counter;
 		printf("Primes before %d are: ", num);
 
-		for(counter = 2; counter <= num; counter = counter + 1) // To find all the divisors which are primes for the user's number
+		for(counter = 2; counter <= num; counter++) // To find all the divisors which are primes for the user's number
 		
   		{
 			if (isPrime(counter) == 1)	//To call a function to check if a counter value is a prime number
