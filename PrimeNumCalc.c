@@ -70,4 +70,3 @@ int isPrime(unsigned num)   // The function to return 1 if the number is prime a
 	else
 		return 0;
 }
-
