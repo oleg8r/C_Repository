@@ -41,7 +41,7 @@ int main(void)
 			if (isPrime(counter) == 1)	//To call a function to check if a counter value is a prime number
 			{
 				printf("%d ", counter); // To display the counter value which is a prime number 
-				primesCount = primesCount + 1; // To count the number of primes for the user's integer number
+				primesCount++; // To count the number of primes for the user's integer number
 			}
 		}
 		
