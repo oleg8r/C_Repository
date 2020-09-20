@@ -61,7 +61,7 @@ int isPrime(unsigned num)   // The function to return 1 if the number is prime a
 
 	for (divisor = 1; divisor <= num ; divisor++)
      		if (num % divisor == 0)
-     	  		numOfDiv = numOfDiv + 1;
+     	  		numOfDiv++;
 
 	if (numOfDiv == 2) // If it's 2, then a number is prime. If it's grater than 2, then a number is not prime. 
 		return 1;
