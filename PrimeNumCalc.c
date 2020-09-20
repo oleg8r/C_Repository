@@ -51,7 +51,6 @@ int main(void)
         	scanf("%u",&num);
  	}
 	printf("Thanks and have a good day!");
-
 }
 
 int isPrime(unsigned num)   // The function to return 1 if the number is prime and return 0 if the number is not prime
