@@ -2,7 +2,7 @@
 |
 | File Name: PtrsAgeElixir.c
 | Purpose: To practice pointers on the age elixir example.
-| Documentation:This program asks a user to enter his age and then lowers
+| Documentation: This program asks a user to enter his age and then lowers
 |	his age by 5 years.
 |	
 | Revision History:
