@@ -24,7 +24,6 @@ int main(void) {
     scanf("%d", &age);
 
     ageptr = &age; // add a line here that stores the address of age in ageptr  
-    
     printf("The secret address is... ");
 
     printf("%p\n", ageptr); // add a line here that prints out the address stored in ageptr  
