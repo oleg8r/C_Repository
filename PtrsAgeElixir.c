@@ -18,7 +18,6 @@
 int main(void) {
 
     int age;
-
     int * ageptr;   // add a line here that declares an integer pointer named "ageptr"
     
     printf("Please specify your age: ");
