@@ -26,7 +26,6 @@ int main(void) {
     printf("%p\n", ageptr); // add a line here that prints out the address stored in ageptr  
     printf("Now take three drops of the magic elixir. \n");
     *ageptr = *ageptr - 5;  // add a line that uses only ageptr to lower the age by 5 years
-    
 
     printf("Did the elixir work? You are %d years old!", age);
 
