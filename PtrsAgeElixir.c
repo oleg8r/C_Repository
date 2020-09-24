@@ -12,7 +12,7 @@
 |
 |===========================================================*/
 
-//use pointers for age elixir
+
 #include <stdio.h>
 
 int main(void) {
