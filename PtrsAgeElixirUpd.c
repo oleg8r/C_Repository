@@ -3,7 +3,7 @@
 | File Name: PtrsAgeElixirUpd.c
 | Purpose: To practice pointers on the age elixir advanced example.
 | Documentation: This program asks a user to enter his age and
-|	then lower shis age by 10 years if he's 21 and older, and twice
+|	then lower shis age by 10 years if he's 21 and older, andtwice
 |	multiplies his age if he's younger than 21.
 |	
 | Revision History:
