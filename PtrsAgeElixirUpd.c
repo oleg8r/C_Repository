@@ -13,7 +13,7 @@
 |
 |===========================================================*/
 
-//using pointers to improve age elixir
+
 
 #include <stdio.h>
 void ageModifyer(int *); //Write your function prototype here
