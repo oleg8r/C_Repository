@@ -24,7 +24,7 @@ int main(void){
 	scanf("%d", ageAddr);
 	printf("Your current age is %d.\n", age);
 
-	ageModifyer(&age); // Function call here
+	ageModifyer(&age); // Function call
 
 	printf("Your new age will be %d!\n", age);
 	return 0;
