@@ -15,7 +15,7 @@
 
 
 #include <stdio.h>
-void ageModifyer(int *); //Write your function prototype here
+void ageModifyer(int *); // Function prototype here
 
 int main(void){
 	int age;
