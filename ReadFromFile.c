@@ -5,7 +5,6 @@
 | Documentation:
 |	This program reads numbers from a file and displays an
 |	average grade.
-
 |
 | Revision History:
 | Date               Name                  Revision
