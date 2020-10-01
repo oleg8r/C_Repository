@@ -2,7 +2,8 @@
 |
 | File Name: ReadFromFile.c
 | Purpose: To practice reading numbers from a file.
-| Documentation: This program reads numbers from a file and displays an
+| Documentation: This program reads numbers from a file and
+displays an
 |	average grade.
 |
 | Revision History:
