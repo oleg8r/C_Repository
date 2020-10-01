@@ -25,8 +25,8 @@ int main(void){
 	printf("Your current age is %d.\n", age);
 
 	ageModifyer(&age); // Function call
-
 	printf("Your new age will be %d!\n", age);
+	
 	return 0;
 }
 
