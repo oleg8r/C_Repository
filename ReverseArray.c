@@ -4,7 +4,6 @@
 | Purpose: To practice pointers and array.
 | Documentation: This program uses a function to reverse an array.
 |	
-
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     -------------------
