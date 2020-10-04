@@ -39,7 +39,6 @@ findnReport(array, size, num);
 return 0;
 }
 
-
 void printArray(int * array)
 {
   int index;
