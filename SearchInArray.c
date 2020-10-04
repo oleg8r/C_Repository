@@ -10,7 +10,7 @@
 |	single occurrence of the number in the array.  It should 
 |	also report how many occurrences were detected in total 
 |	
-|
+
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     ---------------------
