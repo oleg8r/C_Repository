@@ -31,7 +31,6 @@ int size;
 int num = 5;
 
 size = sizeof(array) / sizeof(array[0]);
-
 printArray(array);
 findnReport(array, size, num);
 
