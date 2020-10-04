@@ -3,8 +3,8 @@
 | File Name: SearchInArray.c
 | Purpose: To check if number exists in the array and show its
 |	location.
-| Documentation:
-Write a function that gets an array as a parameter (address 
+| Documentation: Write a function that gets an array as a
+parameter (address 
 |	and size) and a number and checks to see if that number
 |	exists in the array. The function should report every 
 |	single occurrence of the number in the array.  It should 
