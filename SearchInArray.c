@@ -43,7 +43,6 @@ void printArray(int * array)
       printf("index#%d = %d\n", index, array[index]);
 }
 
-
 void findnReport(int * array, int size, int num)
 {
 	int count = 0;
