@@ -8,7 +8,7 @@
 |	to see if that number exists in the array. The function
 |	should report every single occurrence of the number in
 |	the array. It should 
-|	also report how many occurrences were detected in total 
+|also report how many occurrences were detected in total 
 |	
 | Revision History:
 | Date               Name                  Revision
