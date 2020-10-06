@@ -6,7 +6,7 @@
 |    This program shows if the name has even number of letters
 |    or odd number of letters.
 |	
-|
+
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     ------------------
