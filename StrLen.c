@@ -3,8 +3,7 @@
 | File Name: StrLen.c
 | Purpose: To practice string lengths.
 | Documentation: This program shows if the name has even number
-of letters
-|    or odd number of letters.
+of letters |    or odd number of letters.
 |	
 | Revision History:
 | Date               Name                  Revision
