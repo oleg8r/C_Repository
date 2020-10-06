@@ -1,3 +1,2 @@
 # C Repozitory
-This is a private repository of Oleg Savelev.
-All the programs were created in study purposes.
+This is my personal C repository, created in study purposes.
