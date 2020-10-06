@@ -12,7 +12,6 @@
 |
 |===========================================================*/
 
-
 #include <stdio.h>
 #include <string.h>
 #define MAX_ARR_SIZE 51
