@@ -3,7 +3,8 @@
 | File Name: StrinSwap.c
 | Purpose: To practice swapping first and last name using strings.
 | Documentation: This program  first reads the total number
-|   of names (an integer) in order to know how many index cards need to be
+|   of names (an integer) in order to know how many index cards
+need to be
 |	processed altogether.	Next, for each index card, this
 |	program reads a patron's first name and last name and
 |	then displays these names correctly, that is on one line,
