@@ -2,7 +2,7 @@
 |
 | File Name: StringSearchLetter.c
 | Purpose: To find where a specific letter is contained in a
-|		word.
+|   word.
 |
 | Documentation: This program shows what half of the word contains a 
 |	specific letter. If there is no specific letter in the word at all, the 
