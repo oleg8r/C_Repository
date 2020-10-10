@@ -3,7 +3,7 @@
 | File Name: TextTrianForm.c
 | Purpose: To print a user string in the triangle format.
 | Documentation: The program's function gets a string from the user
-|	up to length 20 and prints it in the triangle format.
+|up to length 20 and prints it in the triangle format.
 |	For example, if the user enters "Hello” the code should
 |	print:
 |	H
