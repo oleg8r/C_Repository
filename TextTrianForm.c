@@ -38,7 +38,6 @@ int main(void)
 	return 0;
 }
 
-
  void printTriangle(char * str)
 {
 	for(int index = 1; index <= strlen(str); index++)
