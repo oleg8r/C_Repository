@@ -14,7 +14,6 @@
 |	Hell
 |	Hello
 |
-|
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     -------------------
