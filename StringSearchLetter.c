@@ -6,7 +6,7 @@
 | Documentation: This program shows what half of the word contains
 |   a specific letter. If there is no specific letter in the word
 |   at all, the | program also says about this. The word entered
-|should not have more than
+|   should not have more than
 | 50 letters.
 |
 | Revision History:
