@@ -9,7 +9,6 @@
 |	program outputs the length of the longest word in the text
 |	with no punctuation or special characters of any kind. 
 |	
-
 | Revision History:
 | Date               Name                  Revision
 | --------------     -----------------     ------------------
