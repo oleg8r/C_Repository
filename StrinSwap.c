@@ -8,7 +8,7 @@
 |   this program reads a patron's first name and last name and
 |   then displays these names correctly, that is on one line,
 |   the last name followed by one space, followed by the first
-|   name.  This program prints the reversed name immediately
+|   name. This program prints the reversed name immediately
 |   after reading the patron's names.	
 |
 | Revision History:
