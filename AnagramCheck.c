@@ -3,7 +3,7 @@
 | File Name: AnagramCheck.c
 | Purpose: To check if two words are anagrams
 | Documentation: This program asks users to enter two words,
-|one after the
+|	one after the
 |	other and checks if these words are anagrams (permutations
 |	of the same letters).
 |	
