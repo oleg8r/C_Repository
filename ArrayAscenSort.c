@@ -9,7 +9,7 @@
 |	array as a parameter, sorts it in a ascending fashion
 |	and returns the number of elements that did not change
 |	position in the sort (they were originally in the
-right 	position).
+right position).
 |
 | Revision History:
 | Date               Name                  Revision
