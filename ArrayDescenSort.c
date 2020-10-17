@@ -4,7 +4,8 @@
 | Purpose: To sort an array in a descending order and to show the
 |	number of elements that did not change their positions
 |	after the sorting.
-| Documentation: This program uses the function that gets an array as a
+| Documentation: This program uses the function that gets an
+array as a
 |	parameter, sorts it in a descending fashion and returns the
 |	number of elements that did not change position in the sort
 |	(they were originally in the right position).
