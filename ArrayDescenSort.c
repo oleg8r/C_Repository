@@ -3,7 +3,7 @@
 | File Name: ArrayDescenSort.c
 | Purpose: To sort an array in a descending order and to show
 |	the number of elements that did not change their
-|	positionsafter the sorting.
+|	position safter the sorting.
 | Documentation: This program uses the function that gets an
 |	array as a parameter, sorts it in a descending fashion
 |	and returns the number of elements that did not change
