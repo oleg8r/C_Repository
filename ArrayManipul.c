@@ -4,7 +4,7 @@
 | Purpose: To do array manipulation.
 | Documentation: This program is for array manipulation.
 |	The program is completely modular and has a menu,
-where separate
+|where separate
 |	functions should be called for separate menu options.
 |
 | Revision History:
