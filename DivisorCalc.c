@@ -2,9 +2,9 @@
 |
 | File Name: DivisorCalc.c
 | Purpose: To print out all the divisors of a user entered
-|          number.
+|   number.
 | Documentation: Ask the user to enter a positive number or 0
-| to end.
+|   to end.
 |	Calculate and print out all the divisors of the entered
 |	number, plus the number of printed divisors and their sum.
 |
