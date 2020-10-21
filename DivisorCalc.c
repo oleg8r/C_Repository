@@ -6,7 +6,7 @@
 | Documentation: Ask the user to enter a positive number or 0
 |   to end. Calculate and print out all the divisors of 
 |   the entered number, plus the number of printed divisors
-and their sum.
+|and their sum.
 |
 | Revision History:
 | Date               Name                  Revision
