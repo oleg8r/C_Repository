@@ -36,7 +36,7 @@ int main(void)
       {
         printf("%d ", divisor);
         counter++;
-        sum = sum + divisor;
+        sum += divisor;
       }
   printf("\n%d divisors", counter);
   printf("\nsum of divisors: %d\n", sum);
