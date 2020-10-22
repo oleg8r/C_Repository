@@ -3,7 +3,6 @@
 | File Name: DivisorCountFunc.c
 | Purpose: To return the number of divisors of an integer number
 |	(by using a function).
-
 | Documentation:
 |     The function called unsigned divisorCount (unsigned num)
 |	gets an integer number as an input parameter and returns 
