@@ -4,7 +4,7 @@
 | Purpose: To return the number of divisors of an integer number
 |	(by using a function).
 | Documentation: The function called unsigned divisorCount
-|	(unsigned num)gets an integer number as an input parameter and returns 
+|	(unsigned num) gets an integer number as an input parameter and returns 
 |	the number of divisors of that number. For example, if you
 |	send 15 to the function, it will return 4 as 15 has 4
 |	divisors: 1, 3, 5, 15. The function will return 2 for 17
