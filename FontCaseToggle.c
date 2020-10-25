@@ -4,7 +4,7 @@
 | Purpose: To print every lowercase character as an uppercase one and
 |	vise versa.
 | Documentation:
-|	This program uses the function that gets a string as a
+|This program uses the function that gets a string as a
 |	parameter and prints every lowercase character as an
 |	uppercase one and vise versa.
 |	
