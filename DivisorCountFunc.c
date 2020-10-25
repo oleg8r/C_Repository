@@ -9,7 +9,7 @@
 |	number. For example, if you send 15 to the function,
 |	it will return 4 as 15 has 4 divisors: 1, 3, 5, 15.
 |	The function will return 2 for 17
-|because 17 only has two divisors.
+because 17 only has two divisors.
 |
 | Revision History:
 | Date               Name                  Revision
