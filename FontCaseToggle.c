@@ -1,7 +1,7 @@
 /*===========================================================
 |
 | File Name: FontCaseToggle.c
-| Purpose: To print every lowercase character as an uppercase one and
+| Purpose: To print every lowercase character as an uppercaseone and
 |	vise versa.
 | Documentation: This program uses the function that gets a string as a
 |	parameter and prints every lowercase character as an
