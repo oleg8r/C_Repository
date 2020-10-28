@@ -5,8 +5,7 @@
 |	one andvise versa.
 | Documentation: This program uses the function that gets
 |	a string as a parameter and prints every lowercase
-|character as an
-uppercase one and vise versa.
+|character as anuppercase one and vise versa.
 |	
 | Revision History:
 | Date               Name                  Revision
