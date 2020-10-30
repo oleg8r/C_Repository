@@ -33,19 +33,13 @@ int main(void)
    return 0;
 }
 
-void printToggled(char * myStr)
-{
+void printToggled(char * myStr) {
 for(int index = 0; index < strlen(myStr); index++)
-
-   while (myStr[index] != '\0')
-	{
-    if(myStr[index] >= 'a' && myStr[index] <= 'z')
-      {
+   while (myStr[index] != '\0') {
+    if(myStr[index] >= 'a' && myStr[index] <= 'z') {
         myStr[index] = myStr[index] - 'a' + 'A';
       }
-       
-	if(myStr[index] >= 'A' && myStr[index] <= 'Z')
-      {
+	if(myStr[index] >= 'A' && myStr[index] <= 'Z') {
         myStr[index] = myStr[index] - 'A' + 'a';
       }
    }
