@@ -24,7 +24,6 @@ void printToggled(char * myStr);
 
 int main(void) {
    char * myStr;
-
    printf("Please enter your text here\n");
    gets(myStr);
    printToggled(myStr);
