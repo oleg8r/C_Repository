@@ -6,7 +6,7 @@
 | Documentation: Ask the user to choose an arithmetical operation
 |  type from the list and let the user enter two numbers.
 |  Calculate the 
-|result of the arithmetical operation on the two entered
+| result of the arithmetical operation on the two entered
 |	numbers and show the result to the user.
 |
 | Revision History:
