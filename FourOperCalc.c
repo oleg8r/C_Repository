@@ -22,7 +22,7 @@ int main(void)
    float num1, num2;
 
    printf("4-operation calculator.\nEnter an operation type: A for add, S for subtract, M for multiply and D for divide.\n");
-   scanf(“%c”, &calcOperation);            /* the type of the calculator operations a user chose */
+   scanf(“%c”, &calcOperation);            /* The type of the calculator operation a user chose */
    printf("Enter two numbers.\n");
    scanf(“%f” %f, &num1, &num2);
    switch (calcOperation)
