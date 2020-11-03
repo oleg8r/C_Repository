@@ -2,7 +2,7 @@
 |
 | File Name: GcdCalc.c
 | Purpose: To get two positive integers and calculate their
-greatest
+|greatest
 |	common divisor or GCD. GCD is the greatest number that
 |	the two positive numbers are both divisible by.
 | Documentation:
