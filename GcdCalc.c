@@ -4,7 +4,7 @@
 | Purpose: To get two positive integers and calculate their
 |	greatest common divisor or GCD. GCD is the greatest
 |	number that
-|the two positive numbers are both divisible by.
+the two positive numbers are both divisible by.
 | Documentation: This program picks a candidate for GCD to be
 |	the smaller
 |of the two numbers. It checks if that candidate satisfies
