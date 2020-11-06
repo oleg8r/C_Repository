@@ -7,7 +7,7 @@
 |	by.
 | Documentation: This program picks a candidate for GCD to be
 |	the smaller
-|of the two numbers. It checks if that candidate satisfies
+of the two numbers. It checks if that candidate satisfies
 |	the GCD condition. If not, it reduces the candidate by one
 |	and tries again. The first number that satisfies the
 |	conditions will be the GCD.
