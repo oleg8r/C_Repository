@@ -45,7 +45,7 @@ int gcd(int num1, int num2)
     {
         if (num1 % gcdCandidate == 0 && num2 % gcdCandidate == 0)
             return gcdCandidate;
-        gcdCandidate = gcdCandidate - 1;
+        gcdCandidate -= 1;
     }
 	return 0;
 }
