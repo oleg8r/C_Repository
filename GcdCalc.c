@@ -10,7 +10,7 @@
 |	candidate satisfies the GCD condition. If not, it
 |	reduces the candidate by one and tries again. The first
 |	number that satisfies the
-|conditions will be the GCD.
+conditions will be the GCD.
 |	
 | Revision History:
 | Date              Name                  Revision
