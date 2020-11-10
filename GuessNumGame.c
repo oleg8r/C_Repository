@@ -3,7 +3,7 @@
 | File Name: GuessNumGame.c
 | Purpose: A guessing number game with a computer.
 | Documentation:
-|	A computer chooses a random number between 1 and 100,
+|A computer chooses a random number between 1 and 100,
 |	and a user tries to guess it with 10 attempts.
 |
 | Revision History:
