@@ -33,7 +33,7 @@ int main(void)
   r = rand() % 100 + 1;
   printf("OK, I made my mind!");
   
-  for (counter = 0; counter < 10; counter++) // cou
+  for (counter = 0; counter < 10; counter++) // coun
   {
     printf("\nWhat is your guess? > ");
     scanf("%d", &guess);
