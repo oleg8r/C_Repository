@@ -2,8 +2,7 @@
 |
 | File Name: LcmCalc.c
 | Purpose: To get two integers from the user and calculate and
-|	print
-their least common multiplier or LCM. LCM is the smallest 
+|	printtheir least common multiplier or LCM. LCM is the smallest 
 |	number that divides both given integers.
 | Documentation:
 |	This program gets two numbers from the user, calls a 
