@@ -4,7 +4,7 @@
 | Purpose: To get two integers from the user and calculate and
 |	print their least common multiplier or LCM. LCM is
 |	the smallest  number that divides both given integers.
-| Documentation:This program gets two numbers from the user, calls a 
+| Documentation: This program gets two numbers from the user, calls a 
 |	function to calculate their gcd and then uses the formula 
 |	lcm(x,y) = xy/gcd(x,y) to calculate and display their LCM.
 |	
