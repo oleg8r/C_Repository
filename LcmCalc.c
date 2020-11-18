@@ -7,7 +7,7 @@
 | Documentation: This program gets two numbers from the user,
 |	calls a function to calculate their gcd and then uses
 |	the formula lcm(x,y) = xy/gcd(x,y) to calculate and
-|display their LCM.
+|	display their LCM.
 |	
 | Revision History:
 | Date               Name                  Revision
