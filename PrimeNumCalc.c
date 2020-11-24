@@ -6,7 +6,7 @@
 | Documentation: To print all the prime numbers smaller and
 |	equal to the user's positive integer number, the function
 |	int isPrime(unsigned num) gets a number as a parameter
-|and
+|	and
 |	returns 1 if the number is prime and returns 0 if the
 |	number is not prime.
 |	
