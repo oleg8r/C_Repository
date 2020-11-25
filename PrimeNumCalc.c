@@ -2,8 +2,7 @@
 |
 | File Name: PrimeNumCalc.c
 | Purpose: To print all the prime numbers smaller and equal
-|	to
-the user's positive integer number.
+|	tothe user's positive integer number.
 | Documentation: To print all the prime numbers smaller and
 |	equal to the user's positive integer number, the function
 |	int isPrime(unsigned num) gets a number as a parameter
