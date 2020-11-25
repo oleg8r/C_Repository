@@ -2,7 +2,7 @@
 |
 | File Name: PrimeNumCalc.c
 | Purpose: To print all the prime numbers smaller and equal
-|to
+|	to
 |	the user's positive integer number.
 | Documentation: To print all the prime numbers smaller and
 |	equal to the user's positive integer number, the function
