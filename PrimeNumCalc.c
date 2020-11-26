@@ -1,4 +1,4 @@
-/*===========================================================
+/*============================================================
 |
 | File Name: PrimeNumCalc.c
 | Purpose: To print all the prime numbers smaller and equal
