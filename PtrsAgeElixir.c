@@ -23,7 +23,7 @@ int main(void) {
     printf("The secret address is... ");
     printf("%p\n", ageptr); //  Prints out the address stored in ageptr  
     printf("Now take three drops of the magic elixir. \n");
-    *ageptr = *ageptr - 5;  // Uses "ageptr" to lower the age by 5 years
+    *ageptr -= 5;  // Uses "ageptr" to lower the age by 5 years
     printf("Did the elixir work? You are %d years old!", age);
     return 0;
 }
