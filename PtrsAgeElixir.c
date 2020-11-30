@@ -18,7 +18,7 @@ int main(void) {
     int age;
     int * ageptr;   // Declares an integer pointer named "ageptr"
     printf("Please specify your age: ");
-    scanf("%d", &age);
+    scanf("%d", & age);
     ageptr = &age; // Stores the address of age in "ageptr" 
     printf("The secret address is... ");
     printf("%p\n", ageptr); //  Prints out the address stored in ageptr  
