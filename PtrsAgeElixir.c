@@ -17,6 +17,7 @@
 int main(void) {
     int age;
     int * ageptr;   // Declares an integer pointer named "ageptr"
+    
     printf("Please specify your age: ");
     scanf("%d", & age);
     ageptr = & age; // Stores the address of age in "ageptr" 
@@ -25,5 +26,6 @@ int main(void) {
     printf("Now take three drops of the magic elixir. \n");
     *ageptr -= 5;  // Uses "ageptr" to lower the age by 5 years
     printf("Did the elixir work? You are %d years old!", age);
+    
     return 0;
 }
