@@ -18,7 +18,7 @@ void ageModifyer(int *); // Function prototype
 
 int main(void)
 {
-	int age;
+	int age; // Variable declaration
 	int * ageAddr = & age; // Using a pointer to integer "age"
 
 	printf("Please specify your age: ");
