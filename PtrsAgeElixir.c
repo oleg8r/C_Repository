@@ -1,7 +1,7 @@
 /*===========================================================
 |
 | File Name: PtrsAgeElixir.c
-| Purpose: To use pointers on the age elixir example.
+| Purpose: To use pointers on the age elixir.
 | Documentation: This program asks a user to enter his age
 |       and then lowers his age by 5 years.
 |	
