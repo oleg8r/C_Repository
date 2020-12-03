@@ -44,7 +44,7 @@ void calcGradeAvg(int * arr) {
     float gradeAvg;
 
     for (int i=0; i<num; i++) {
-        gradeSum = gradeSum + arr[i];
+        gradeSum += arr[i];
         gradeAvg = gradeSum / num;
     }
     return gradeAvg;
