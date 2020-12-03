@@ -34,7 +34,7 @@ int main(void)
 void ageModifyer(int * ageAddr)
 {
   if (* ageAddr >= 21)
-     * ageAddr = * ageAddr - 10;
+     * ageAddr -= 10;
   if (* ageAddr < 21)
      * ageAddr = * ageAddr * 2;
 }
