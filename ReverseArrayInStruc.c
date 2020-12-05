@@ -11,7 +11,6 @@
 |
 |===========================================================*/
 
-
 /* To display today's calendar date */
 
 #include <stdio.h>
