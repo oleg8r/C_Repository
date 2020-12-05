@@ -41,7 +41,7 @@ void printArray(int * arr)
     printf("%d ", arr[i]);
 }
 
-void reverseArray(int * arr)
+void reverseArray(int * arr)	// This function reverses array
 {
   int tempVar;
     
