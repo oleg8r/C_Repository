@@ -15,7 +15,8 @@
 
 #include <stdio.h>
 
-struct date{
+struct date
+{
         int year;
         int month;
         int day;
