@@ -2,7 +2,7 @@
 |
 | File Name: ReverseArrayInStruc.c
 | Purpose: To practice passing structure to functions.
-| Documentation:This program displays today's calendar date.
+| Documentation: This program displays today's calendar date.
 |	
 |
 | Revision History:
