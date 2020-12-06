@@ -33,7 +33,7 @@ int main(void)
 	return 0;
 }
 
-void readDate(struct date * today) {
+void readDate(struct date * today){
   scanf("%d ", &(*today).year);
   scanf("%d ", &(*today).month);
   scanf("%d ", &(*today).day);
