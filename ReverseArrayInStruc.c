@@ -40,7 +40,7 @@ void readDate(struct date * today)
   scanf("%d ", &(*today).day);
 }
 
-void printDate(struct date today) {
+void printDate(struct date today){
   printf("%02d/", today.month);
   printf("%02d/", today.day);
   printf("%04d", today.year);
