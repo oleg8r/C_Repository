@@ -20,7 +20,7 @@ struct date
         int year;
         int month;
         int day;
-    };
+};
 
 void readDate(struct date *);
 void printDate(struct date);
