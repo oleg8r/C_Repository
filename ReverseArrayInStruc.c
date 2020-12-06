@@ -25,7 +25,8 @@ struct date
 void readDate(struct date *);
 void printDate(struct date);
 
-int main(void){
+int main(void)
+{
 	struct date today;
 	readDate(& today);
 	printDate(today);
