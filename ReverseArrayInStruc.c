@@ -1,7 +1,8 @@
 /*===========================================================
 |
 | File Name: ReverseArrayInStruc.c
-| Purpose: To display today's calendar date through passing structure to functions.
+| Purpose: To display today's calendar date through passing
+structure to functions.
 | Documentation: This program displays today's calendar date.
 |
 | Revision History:
