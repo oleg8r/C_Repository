@@ -56,5 +56,6 @@ void findnReport(int * array, int size, int num)
 		}
 		array++;
 	}
+	
 	printf("\nTotal of %d occurences of number 5\n", count);
 }
