@@ -21,7 +21,7 @@ struct date
         int day;
 };
 
-void readDate(struct date *);
+void readDate(struct date*);
 void printDate(struct date);
 
 int main(void)
