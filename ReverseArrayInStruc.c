@@ -27,7 +27,7 @@ void printDate(struct date);
 int main(void)
 {
 	struct date today;
-	readDate(& today);
+	readDate(&today);
 	printDate(today);
 	return 0;
 }
