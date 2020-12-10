@@ -20,6 +20,7 @@ int main(void) {
   char name[MAX_ARR_SIZE];
   
   printf("Please enter the name: ");
+  
   scanf("%s", name);
     if (strlen(name)%2==0)
       printf("The name has even number of letters\n");
