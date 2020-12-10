@@ -16,7 +16,8 @@
 #include <string.h>
 #define MAX_ARR_SIZE 51
 
-int main(void) {
+int main(void)
+{
   char name[MAX_ARR_SIZE];
   
   printf("Please enter the name: ");
