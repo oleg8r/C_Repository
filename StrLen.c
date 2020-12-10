@@ -26,7 +26,7 @@ int main(void)
     if (strlen(name)%2==0)
       printf("The name has even number of letters\n");
     else
-      (printf("The name has odd number of letters\n"));
+      printf("The name has odd number of letters\n"));
         
   return 0;
 }
