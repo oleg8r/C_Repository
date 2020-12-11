@@ -27,7 +27,7 @@ int main(void) {
     char lastName[MAX_ARR_SIZE];
 
     scanf("%d", &count);
-    for (int i=1; i<=count; i++) {
+    for (int i=1; i<=count; i++){
       scanf("\n%s %s", firstName, lastName);
       printf("%s %s\n", lastName, firstName);
     }
