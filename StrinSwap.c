@@ -21,7 +21,8 @@
 #include <stdio.h>
 #define MAX_ARR_SIZE 101
 
-int main(void){
+int main(void)
+{
     int count;
     char firstName[MAX_ARR_SIZE];
     char lastName[MAX_ARR_SIZE];
