@@ -20,7 +20,8 @@
 #include <string.h>
 #define STR_SIZE 101
 
-int main(void){
+int main(void)
+{
 	int wordsCount;
 	char string[STR_SIZE];
 	int longestWord=0;
