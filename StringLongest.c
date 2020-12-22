@@ -29,7 +29,7 @@ int main(void)
   printf("Please enter the number of words followed by words: ");
 	scanf("%d\n",&wordsCount); //Specify the total number of words
  
-  for (int i=0;i<wordsCount;i++)//Go from the 1st to the last word
+  for (int i=0;i<wordsCount;i++)	//Go from the 1st to the last word
   {
 	  scanf("%s",string); //Scan the word (put it to RAM)...
     int l=0;
