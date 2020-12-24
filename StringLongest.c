@@ -1,7 +1,7 @@
 /*===========================================================
 |
 | File Name: StringLongest.c
-| Purpose: To find the longest word/string in a text (the longest string length).
+| Purpose: To find the longest word/string in a text (length).
 | Documentation:
 |	This C-program takes the number of words in a text as an
 |	input, followed by all of the words in the text. Then the
