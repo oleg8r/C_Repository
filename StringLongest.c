@@ -6,7 +6,7 @@
 |	a text as an input, followed by all of the words in
 |	the text. Then the program outputs the length of
 |	the longest word in the text
-|with no punctuation or special characters of any kind. 
+with no punctuation or special characters of any kind. 
 |	
 | Revision History:
 | Date               Name                  Revision
