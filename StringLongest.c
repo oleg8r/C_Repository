@@ -5,7 +5,7 @@
 | Documentation: This C-program takes the number of words in
 |	a text as an input, followed by all of the words in
 |	the text. Then the program outputs the length of
-|	the longest word in the textwith no punctuation or special characters of any kind. 
+|	the longest word in the text with no punctuation or special characters of any kind. 
 |	
 | Revision History:
 | Date               Name                  Revision
