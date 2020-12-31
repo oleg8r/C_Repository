@@ -41,5 +41,6 @@ int main(void)
   }
 	
   printf("The longest word in this sentence has %d letters", longestWord);
+	
   return 0;
 }
