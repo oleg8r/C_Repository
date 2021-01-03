@@ -20,7 +20,8 @@
 #include <stdlib.h>
 #define MAX_STR_SIZE 51
 
-int main(void){
+int main(void)
+{
   char word[MAX_STR_SIZE];
   char letter;
   int i=0;
