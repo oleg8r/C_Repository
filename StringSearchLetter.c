@@ -34,7 +34,8 @@ int main(void)
   for(i=0;i<strlen(word);i++)
   {
     //printf("Index is %d\n",i);
-    if(word[i]==letter){
+    if(word[i]==letter)
+    {
       position=i+1;
       printf("Letter %c is in the position number %d in the word.\n",letter,position);
       if(strlen(word)%position==0 && position<= strlen(word)/2 && position>0) //for even words
