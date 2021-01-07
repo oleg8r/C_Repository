@@ -31,7 +31,7 @@ int main(void)
   printf("Please enter the letter you need to search in your word: ");
   scanf(" %c",&letter); //Add a leading whitespace to ignore the previous newline
 
-  for(i=0;i<strlen(word);i++)
+  for(i=0;i<strlen(word); i++)
   {
     //printf("Index is %d\n",i);
     if(word[i]==letter)
