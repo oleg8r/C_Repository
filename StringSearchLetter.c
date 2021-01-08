@@ -27,7 +27,7 @@ int main(void)
   int i=0;
   int position=0;
   printf("Please enter your word (50 letters max): ");
-  scanf("%50s",word); //Leaves a newline in the input
+  scanf("%50s", word); //Leaves a newline in the input
   printf("Please enter the letter you need to search in your word: ");
   scanf(" %c",&letter); //Add a leading whitespace to ignore the previous newline
 
