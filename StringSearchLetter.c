@@ -48,7 +48,7 @@ int main(void)
       else if(strlen(word) % position !=0 && position-1 <= strlen(word) /2 && position>0) //for odd words
         printf("Letter %c is in the first half of the word.\n", letter);
         //return 1;
-      else if(strlen(word) % position !=0 && position-1 > strlen(word)/2 && position>0) //for odd words
+      else if(strlen(word) % position !=0 && position-1 > strlen(word) /2 && position>0) //for odd words
         printf("Letter %c is in the second half of the word.\n", letter);
         //return 2;
     }
