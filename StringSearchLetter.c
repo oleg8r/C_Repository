@@ -41,7 +41,7 @@ int main(void)
       if(strlen(word) % position==0 && position <= strlen(word)/2 && position>0) //for even words
         printf("Letter %c is in the first half of the word.\n", letter);
         //return 1;
-      else if(strlen(word) % position==0 && position > strlen(word)/2 && position>0) //for even words
+      else if(strlen(word) % position ==0 && position > strlen(word)/2 && position>0) //for even words
         printf("Letter %c is in the second half of the word.\n", letter);
         //return 2;
   
