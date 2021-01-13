@@ -38,7 +38,7 @@ int main(void)
     {
       position=i+1;
       printf("Letter %c is in the position number %d in the word.\n",letter,position);
-      if(strlen(word)%position==0 && position <= strlen(word)/2 && position>0) //for even words
+      if(strlen(word)% position==0 && position <= strlen(word)/2 && position>0) //for even words
         printf("Letter %c is in the first half of the word.\n",letter);
         //return 1;
       else if(strlen(word) % position==0 && position> strlen(word)/2 && position>0) //for even words
