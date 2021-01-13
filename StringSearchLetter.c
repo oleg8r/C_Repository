@@ -55,6 +55,6 @@ int main(void)
   }
   
   if(position==0)
-    printf("There is no letter %c in the word at all. The search is case sensitive.\n",letter);
+    printf("There is no letter %c in the word at all. The search is case sensitive.\n", letter);
     //return -1;
 }
