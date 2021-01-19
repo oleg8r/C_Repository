@@ -25,7 +25,7 @@ int main(void)
   char word[MAX_STR_SIZE];
   char letter;
   int i=0;
-  int position=0;
+  int position =0;
   printf("Please enter your word (50 letters max): ");
   scanf("%50s", word); //Leaves a newline in the input
   printf("Please enter the letter you need to search in your word: ");
