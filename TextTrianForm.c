@@ -39,7 +39,7 @@ int main(void)
 
  void printTriangle(char * str)
 {
-	for(int index = 1; index <= strlen(str); index++)
+	for(int index = 1; index <= strlen(str); index++) //counter
   {
     printf("%.*s\n", index, str); // Use %.*s to show a specific amount of string characters
   }
