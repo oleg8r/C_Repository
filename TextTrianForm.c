@@ -7,7 +7,7 @@
 |	For example, if the user enters "Hello" the code should
 |	print:
 |		H
-|	He
+|		He
 |	Hel
 |	Hell
 |	Hello
