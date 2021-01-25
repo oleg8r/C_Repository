@@ -6,7 +6,7 @@
 |	up to length 20 and prints it in the triangle format.
 |	For example, if the user enters "Hello" the code should
 |	print:
-|	H
+|		H
 |	He
 |	Hel
 |	Hell
