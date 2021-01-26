@@ -9,7 +9,7 @@
 |		H
 |		He
 |		Hel
-|	Hell
+|		Hell
 |	Hello
 |
 | Revision History:
