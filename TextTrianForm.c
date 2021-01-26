@@ -8,7 +8,7 @@
 |	print:
 |		H
 |		He
-|	Hel
+|		Hel
 |	Hell
 |	Hello
 |
